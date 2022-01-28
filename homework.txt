@@ -1,0 +1,8 @@
+Variables:es un valor que se usa como apoyo para referirse a algun dato que se usara durante el desarrollo del codigo y que no forzosamente se deba especificar su tipo ya que el valor relacionado puede ser impuesto albitrariamente, sin embargo al indicar las variables que se utilizaran se debe cuidar no usar las keywords ya que estas ya tienen un valor definido y generaria errores 
+
+Strings:son bloques de texto y deben ir entrecomillas
+
+Funciones (argumentos, return):una funcion es lo que nos ayuda a usar las variables antes establecidas para hacer cualquier cosa que se quiera y para ello se usa su palabra clave "function" para indicarle al sistema que es una funcion e indicar el nombre de la funcion a realizar para asi generar argumentos que entregan los datos de las variebles como se es requerido dando como resultado una declaracion de retorno(return) que puede ser especifica si se pide acceder a una variable dada dentro de la funcion o indefinida si la variable no esta dentro de la funcion 
+
+Declaraciones if: son declaraciones que nos ayudan a controlar el fujo de la informacion asi como a hacer comparaciones entre los datos y de esta forma obtener verificados 
+Valores booleanos (true, false): son valores basicos basados en el codigo binario donde solo hay "cierto" o "falso" como valores a obtener 
